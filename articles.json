@@ -1,0 +1,25 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Getting Started with Dynamic Updates",
+      "author": "John Doe",
+      "date": "2024-02-22",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis ligula ut tortor consequat, et mattis eros convallis."
+    },
+    {
+      "id": 2,
+      "title": "Advanced Techniques in Dynamic Websites",
+      "author": "Jane Smith",
+      "date": "2024-02-20",
+      "content": "Praesent in nibh sed leo consectetur hendrerit ut in eros. Nulla facilisi."
+    },
+    {
+      "id": 3,
+      "title": "Optimizing Website Performance",
+      "author": "Alice Johnson",
+      "date": "2024-02-18",
+      "content": "Integer et tortor sapien. Morbi convallis eleifend est, sed suscipit nulla sagittis vel."
+    }
+  ]
+}
